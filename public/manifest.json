@@ -1,0 +1,22 @@
+{
+  "short_name": "CityWeather",
+  "name": "CityWeather",
+  "icons": [
+    {
+      "src": "/img/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#78a8f0",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/city/",
+  "theme_color": "#78a8f0"
+}

@@ -1,0 +1,6 @@
+{
+  "hints": {
+    "apple-touch-icons": "error"
+  },
+  "hintsTimeout": 120000
+}
